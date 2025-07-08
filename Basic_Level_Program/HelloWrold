@@ -3,8 +3,3 @@
 
 print("Hello, World!")
 
-mv Basic_Level_Program/HelloWrold.py HelloWrold.py 
-
-git add .
-git commit -m "Renamed Basic_Level_Program/HelloWrold.py  to HelloWrold.py"
-git push origin main
